@@ -1,291 +1,264 @@
-<!-- Animated Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Altaf%20Rahman&fontSize=55&fontAlignY=40&fontColor=ffffff&desc=AI%20Engineer%20|%20Machine%20Learning%20Engineer%20|%20Generative%20AI&descAlignY=60"/>
-
 <div align="center">
 
-# 👋 Hi, I'm Altaf Rahman
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Altaf%20Rahman&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Building%20Production-Ready%20AI%20Systems&descAlignY=58&descSize=18"/>
 
-### 🤖 AI Engineer | ML Engineer | Deep Learning | Computer Vision | Generative AI
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=RAG+Pipelines+%26+Multi-Agent+Systems;Full-Stack+AI+Application+Development;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+Flask;Docker+%2B+Nginx+%2B+Cloud+Deployment;Final-Year+CS+Student+%40+University+of+Peshawar"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Developer;Computer+Vision+Engineer;Building+Production+AI+Applications;Always+Learning+New+Technologies"/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/altaf-rahman-464030221)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:altafrahman756@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/its-altaf)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/altaf756)
+
+<img src="https://komarev.com/ghpvc/?username=its-altaf&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌐 Connect with Me
+### 🧭 About Me
+
+I'm a final-year **BS Computer Science** student at the **University of Peshawar** (Session 2022–26), focused on **AI/ML engineering** — turning research-grade models into deployable, production-ready applications. My work centers on **RAG pipelines, multi-agent architectures, and full-stack AI apps**, shipped with real deployment infrastructure (Docker, Nginx, Gunicorn, SSL) rather than notebooks alone.
+
+- 🔭 Currently building **PersonaAI** — a personal multi-agent assistant with multi-user auth, PostgreSQL, and a full cloud deployment stack (Gunicorn + Nginx + Docker Compose + SSL)
+- 🎓 IBM Professional Certificates in **Generative AI Engineering** and **Machine Learning** (July 2026)
+- 📄 Co-authored IEEE-style research on WSN security and 5G resource allocation
+- 🌱 Actively deepening skills in **MLOps, Kubernetes, and agentic AI systems**
+- 💬 Ask me about RAG architectures, LangChain/LangGraph, multi-agent orchestration, or deploying ML models to production
+- ⚡ Fun fact: I ship every project with a Dockerfile — no "works on my machine"
+
+---
+
+### 🎓 Education
+
+**BS Computer Science** — University of Peshawar, Department of Computer Science
+*Session 2022–2026*
+
+Coursework spanning Machine Learning, Deep Learning, Networking & Telecommunications (SDN, NGN, 5G, NFV, MEC, IoT), Network Security, and Wireless & Emerging Networks.
+
+---
+
+### 📜 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Generative AI Engineering | IBM | July 2026 |
+| Machine Learning | IBM | July 2026 |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Generative AI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-009688?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-3F51B5?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+**Backend & Data**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+
+**DevOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/SSL%2FTLS-003A70?style=flat-square)
+
+**Visualization & Tools**
+
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🩺 MediAssist AI — Medical RAG Chatbot**
+Full RAG pipeline for medical Q&A with LangChain, ChromaDB, and SQLAlchemy across a multi-route Flask architecture. Containerized with a multi-stage Docker build and Docker Compose using persistent volumes for reliable data storage.
+
+`LangChain` `ChromaDB` `SQLAlchemy` `Flask` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**📄 DocuMind — RAG PDF Q&A Bot**
+Chat with PDFs using a retrieval pipeline built on PyPDFLoader, ChromaDB vector storage, and HuggingFace embeddings, served through an interactive Gradio interface.
+
+`PyPDFLoader` `ChromaDB` `HuggingFace` `Gradio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 AI Academic Research Assistant** *(Capstone)*
+Parallel API architecture querying eight academic databases simultaneously, backed by hybrid FAISS search and a resilient **Gemini → Groq → Ollama** LLM fallback cascade. Co-authored full thesis documentation.
+
+`FAISS` `Multi-LLM Cascade` `Parallel APIs`
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 PersonaAI — Personal Multi-Agent Assistant** *(In Progress)*
+Multi-agent Flask architecture with multi-user authentication, PostgreSQL persistence, and a full production deployment stack: Gunicorn + Nginx + Docker Compose + SSL.
+
+`Multi-Agent` `Flask` `PostgreSQL` `Nginx`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐶 Cat vs. Dog Classifier**
+Transfer learning image classifier using MobileNetV2 and VGG16 architectures with a Flask front end, containerized and published to Docker Hub for one-command deployment.
+
+`TensorFlow` `Transfer Learning` `Flask` `Docker Hub`
+
+</td>
+<td width="50%" valign="top">
+
+**🎮 League of Legends Win Predictor**
+PyTorch logistic regression model predicting match outcomes from in-game statistics, achieving **~82% accuracy** and a **0.89 ROC-AUC**.
+
+`PyTorch` `Logistic Regression` `Model Evaluation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌫️ AQI Predictor — Pakistan**
+Air quality prediction web app for Pakistani cities using scikit-learn regression models, a Flask backend, and the WAQI API for live data.
+
+`scikit-learn` `Flask` `WAQI API`
+
+</td>
+<td width="50%" valign="top">
+
+**🌫️ AQI Predictor — India**
+Full-stack air quality prediction app built with Node.js and React, pulling live data from the OpenWeatherMap API.
+
+`Node.js` `React` `OpenWeatherMap API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Customer Segmentation (Unsupervised ML)**
+Comparative clustering analysis on the Mall Customers dataset using K-Means, Agglomerative Clustering, and DBSCAN, with dimensionality reduction via PCA and t-SNE for visualization.
+
+`K-Means` `DBSCAN` `PCA` `t-SNE`
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 DES Encryption Implementation**
+From-scratch implementation of the Data Encryption Standard (DES) algorithm as part of a Network Security course assignment.
+
+`Cryptography` `Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📄 Publications
+
+- **Wireless Sensor Network (WSN) Security** — IEEE-style research paper, Wireless and Emerging Networks
+- **5G Resource Allocation** — IEEE-style research paper, Wireless and Emerging Networks
+- **AI Academic Research Assistant — Capstone Thesis** — co-authored with Naeem Ullah
+
+---
+
+### 🌱 Currently Learning
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=its-altaf&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-altaf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=its-altaf&theme=tokyonight&hide_border=true"/>
+</p>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=its-altaf&theme=tokyonight&row=1&column=6&margin-w=8"/>
+</p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.youtube.com/@YOURCHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=its-altaf&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
-
----
-
-## AI & Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-
----
-
-## Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-
-![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
-
-![MCP](https://img.shields.io/badge/MCP-FF5722?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge)
-
-![FAISS](https://img.shields.io/badge/FAISS-3F51B5?style=for-the-badge)
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4CAF50?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-
----
-
-## Backend
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
-
-## DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🎤 AI Interviewer Agent | Voice-based AI interviewer using LangGraph & MCP |
-| 🏥 AI Medical Chatbot | RAG-powered chatbot for medical documents |
-| 📄 Intelligent Document Q&A | Chat with PDFs using vector databases |
-| 🐶 Cat vs Dog Classifier | Deep Learning image classifier |
-| 👁️ Computer Vision Suite | Detection, segmentation & classification |
-
----
-
-# 📚 Certifications
-
-- ✅ Machine Learning
-- ✅ Deep Learning
-- ✅ LangChain
-- ✅ Docker
-- ✅ Python
-- ✅ SQL
-
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- MLOps
-- MLflow
-- DVC
-- AWS
-- Agentic AI
-- Multi-Agent Systems
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Snake Contribution Animation
-
-> Create `.github/workflows/snake.yml` and use:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then add:
-
-```markdown
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-```
-
----
-
-# 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-# 📺 Latest YouTube Videos
-
-- ▶️ AI Interview Agent
-- ▶️ AI Medical Chatbot
-- ▶️ RAG Tutorial
-
----
-
-# 📰 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-# 🏅 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/YOUR_USERNAME)
-
----
-
-# 💡 Fun Fact
+### 💡 How I Work
 
 ```python
-while True:
-    learn()
-    build()
-    deploy()
-    improve()
+while building:
+    understand_the_problem()
+    prototype_fast()
+    add_production_infra()   # Docker, Nginx, SSL, CI
+    ship_it()
+    learn_something_new()
 ```
-
----
-
-# ☕ Support
-
-If you like my work, ⭐ my repositories and follow my GitHub profile.
 
 ---
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+### 📫 Let's connect — open to AI/ML Engineering roles and internships
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:4F46E5,100:06B6D4"/>
+⭐ If any of this resonates, a star on my repos goes a long way.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,100:0F172A"/>
 
 </div>
